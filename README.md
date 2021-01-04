@@ -1,2 +1,2 @@
-# uct2020dit2
+# u
 Proyecto Universitario UCT
